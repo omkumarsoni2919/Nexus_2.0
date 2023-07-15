@@ -1,0 +1,22 @@
+header,footer,.zoom,.video {
+    overflow: hidden;
+}
+@media screen and (max-width:991px) {
+    .nav-toggle{
+        padding-top: 4px;
+        padding-left: 80px;
+        color:#080808;
+        display: block;
+    }
+    .toggle{
+        gap: 13%;
+    }
+    .remove-menu{
+        display: none;
+    }
+    .toggle-slidder{
+        width: 50px;
+    }
+
+    
+}

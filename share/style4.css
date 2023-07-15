@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    width: 100%;
+}
+
+.title{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+/* .image img{
+    height: 600px;
+    width: 100%;
+} */
+.image{
+    animation: anime 15s infinite 1s linear;
+    animation-timing-function: ease;
+    background-image: url(679129cc318e08c46f5d4e5811f20008-removebg-preview.png);
+    width: 1000%;
+    height: 600px;
+    background-repeat: no-repeat;
+
+
+}
+
+
+
+.content-box{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.content{
+    margin-bottom: 20px;
+}
+/* .animation{
+    animation: anime 15s infinite 1s linear;
+    animation-timing-function: ease;
+} */
+
+@keyframes anime{
+    0%{background-image: url("679129cc318e08c46f5d4e5811f20008-removebg-preview.png");}
+    35%{background-image: url("istockphoto-165678178-612x612-removebg-preview.png");}
+    75%{background-image: url("pic/self care pic/richard-hittleman-s-introduction-to-yoga-vector-graphics-exercise-yoga-series-png-favpng-iHHunLrXaDmsH7Rw7Ce14f3td-removebg-preview (1).png");}
+}

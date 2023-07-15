@@ -1,0 +1,18 @@
+
+body{
+    background-color: #f0e9e9;
+}
+.footer{
+    background-color: #fff;
+}
+.fitImage{
+    width: 240px;
+    height: 300px;
+    border-radius: 5px;
+}
+.nav{
+    margin-top: 5px;
+    font-family: cursive;
+    padding-left: 25px;
+    
+}

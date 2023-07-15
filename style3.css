@@ -1,0 +1,25 @@
+* {
+  padding: 0px;
+  margin: 5px;
+}
+.font {
+  font-family: "Poppins", sans-serif;
+  font-family: cursive;
+}
+.footer {
+  background: #000000;
+  height: 300px;
+}
+.footer li p {
+  color: #ffffff;
+  text-align: center;
+}
+/* to copy */
+
+.box-shadow {
+  box-shadow: 0 2px 0 0 #fff;
+  width: 100%;
+}
+.color {
+  color: #fff;
+}
